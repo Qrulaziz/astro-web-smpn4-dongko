@@ -1,11 +1,11 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
-  image: /images/banner-img.png
+  title: "Selamat datang di website SMPN 4 Dongko Satap"
+  content: "Religius dalam pikiran dan perbuatan, Edukatif dalam pengajaran, Aktif dalam berbagai kegiatan, Disiplin dalam tindakan & Inovatif melalui ilmu pengetahuan."
+  image: /images/banner-img.jpeg
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Lihat selengkapnya
+    link: "https://www.youtube.com/@smpn4dongko"
     enable: true
 
 ##key features
@@ -46,41 +46,41 @@ key_features:
 
 #service
 service:
-  homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
-    tab_list:
-        - title: Habit building essential choose habit
-          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
-          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
-          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
+  # homepage_tab:
+  #   title: Prevent failure from to impacting your reputation
+  #   description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+  #   tab_list:
+  #       - title: Habit building essential choose habit
+  #         icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
+  #         image: "/images/sells-by-country.png"
+  #       - title: Get an overview of Habit Calendars.
+  #         icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+  #         image: "/images/collaboration.png"
+  #       - title: Start building with Habitify platform
+  #         icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+  #         image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-      image: "/images/collaboration.png"
-      list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+    - title: Sambutan Kepala SMPN 4 Dongko
+      description: Assalamualaikum warahmatullahi wabarakatuh. Marilah kita panjatkan puji syukur kehadirat Tuhan Yang Maha Esa karena atas segala rahmat dan anugerah-Nya kepada seluruh warga SMPN 4 Dongko. Sehingga kerja keras, solidaritas, dan rasa ikhlas yang sedang dan akan diusahakan semoga dapat membawa SMPN 4 Dongko semakin maju dan berprestasi dari tahun ke tahun baik dalam bidang akademik maupun non-akademik.
       video:
-        thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
+        thumbnail: "/images/thumbnail.png"
+        video_id: "9APa7-RU3sc"
       button:
-        label: Know About Us
+        label: Lihat selengkapnya
         link: "#"
         enable: true
+    # - title: Accept payments any country in this whole universe
+    #   desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    #   image: "/images/collaboration.png"
+    #   list:
+    #     - Supporting more than 119 country world
+    #     - Open transaction with more than currencies
+    #     - Customer Service with 79 languages
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
+  title: Pendapat para Alumni tentang SMPN 4 Dongko
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   testimonial_list:
     - author: David Cameron

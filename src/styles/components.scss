@@ -678,3 +678,23 @@ select:invalid {
     width: 100% !important;
   }
 }
+
+// Right column gallery
+
+.right-col {
+  height: 100%;
+  display: grid;
+  gap: 2.3em;
+  grid-template-columns: repeat(2, auto);
+  grid-template-areas: 
+    "left ."
+    "left .";
+  .kartu {
+    border-radius: .8em;
+    
+  }
+  .kartu1 {
+    grid-area: left;
+  }
+}
+

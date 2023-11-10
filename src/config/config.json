@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
+    "title": "Web SMPN 4 Dongko",
     "base_url": "https://pinwheel-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/logo-smp4.png",
     "logo": "/images/logo.png",
     "logo_width": "147",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "Sefourdo."
   },
 
   "settings": {
@@ -19,7 +19,7 @@
 
   "call_to_action": {
     "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "description": "Sekolah dengan motto Religius, Edukatif, Aktif, Disiplin & Inovatif",
     "button": {
       "label": "Download The Theme",
       "link": "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -33,17 +33,17 @@
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "footer_description": "Religius, Edukatif, Aktif, Disiplin & Inovatif",
+    "email": "sefourdo@gmail.com",
+    "location": "Dusun Sobo RT. 17 RW. 03, Ngerdani, Kec. Dongko, Kab. Trenggalek Prov. Jawa Timur",
+    "phone": "+123-222-0127",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023 SMPN 4 Dongko"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Sahrul Aziz",
     "meta_image": "/images/og-image.png",
-    "meta_description": "pinwheel astro"
+    "meta_description": "web smpn 4 dongko"
   }
 }

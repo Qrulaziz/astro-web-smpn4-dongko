@@ -15,20 +15,21 @@ const { title, button, image, content } = banner;
 
         {
           button.enable && (
-            <a class="btn btn-white mt-8" href={button.link}>
+            <a class="btn btn-white mt-8" target="_blank" href={button.link}>
               {button.label}
             </a>
           )
         }
       </div>
-      <div class="lg:col-6">
+      <div class="lg:col-6 mt-4 inline-block">
         <Image
-          class="w-full object-contain"
+          class="w-full object-contain rounded-md"
           alt="banner"
           src={image}
           width={603}
           height={396}
         />
+        </div>
       </div>
     </div>
   </div>

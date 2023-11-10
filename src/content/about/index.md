@@ -1,6 +1,6 @@
 ---
-title: "About"
-page_title: "About our company"
+title: "Profil"
+page_title: "Profil SMPN 4 Dongko"
 buttons:
   - label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -12,12 +12,12 @@ buttons:
 
 # counter
 counter:
-  - name: "Customers"
-    number: 25
+  - name: "Guru dan Tenaga Kependidikan"
+    number: 15
     messurment: M
     color: "#A3A1FB"
-  - name: "Customers"
-    number: 440
+  - name: "Siswa"
+    number: 72
     messurment: M
     color: "#5EE2A0"
   - name: "Customers"
@@ -61,26 +61,50 @@ features:
 
 ## members
 members:
-  title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  title: Guru dan Tenaga Kependidikan
+  description: Berikut data guru dan tenaga kependidikan yang mengabdikan diri di SMPN 4 Dongko
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
+    - name: Eko Adi Prasetyo, S.Pd
+      field: Kepala Sekolah / Bahasa Inggris
+      image: "/images/users/pak-eko.png"
+    - name: Nanang Erwanto, S.Pd
+      field: IPS
+      image: "/images/users/pak-nanang.jpg"
+    - name: Lilik Winarni, S.Pd
+      field: IPA
+      image: "/images/users/bu-lilik.jpg"
+    - name: Sudarti, S.Pd
+      field: PPKN
+      image: "/images/users/bu-darti.jpg"
+    - name: Ida Wahyuni, S.Pd
+      field: Matematika
+      image: "/images/users/bu-ida.png"
+    - name: Armadiono, S.Pd
+      field: Bahasa Inggris
+      image: "/images/users/pak-arma.jpg"
+    - name: Drs. Isdaryono
+      field: Bimbingan Konseling
+      image: "/images/users/pak-is.jpg"
+    - name: Siti Aslikah, S.Pd
+      field: PAI
+      image: "/images/users/bu-aslikah.jpg"
+    - name: Oktiana Lestari, S.Pd
+      field: PAI
+      image: "/images/users/bu-ana.jpg"
+    - name: Lutfi Nuril, S.Pd
+      field: PAI
+      image: "/images/users/bu-lutfi.jpg"
+    - name: Musinem, S.Pd
+      field: Bahasa Jawa
+      image: "/images/users/bu-mus.jpg"
+    - name: Sri Rahayu
+      field: Tata Usaha
+      image: "/images/users/bu-sri.jpg"
+    - name: Catur Dwi Astutik, S.Pd
+      field: Tata Usaha
+      image: "/images/users/bu-catur.jpg"
+    - name: Yayuk Anggraeni, S.Pd
+      field: Operator
+      image: "/images/users/bu-yayuk.jpg"
 ---
 Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem

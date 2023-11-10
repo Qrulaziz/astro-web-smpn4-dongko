@@ -1,5 +1,4 @@
 ---
-import Logo from "@components/Logo.astro";
 import menu from "@config/menu.json";
 
 export interface ChildNavigationLink {
@@ -22,7 +21,7 @@ const { pathname } = Astro.url;
   <nav class="navbar container">
     <!-- logo -->
     <div class="order-0">
-      <Logo />
+      <h1 class="text-3xl">Sefourdo.</h1>
     </div>
     <!-- navbar toggler -->
     <input id="nav-toggle" type="checkbox" class="hidden" />
@@ -115,12 +114,12 @@ const { pathname } = Astro.url;
       }
       <li class="nav-item mt-2 lg:hidden">
         <a class="btn btn-white btn-sm border-border" href="/signin">
-          Sing Up Now</a
+          Login</a
         >
       </li>
     </ul>
     <div class="order-1 ml-auto hidden items-center md:order-2 md:ml-0 lg:flex">
-      <a class="btn btn-white btn-sm" href="/signin"> Sing Up Now</a>
+      <a class="btn btn-white btn-sm" href="/signin"> Login</a>
     </div>
   </nav>
 </header>

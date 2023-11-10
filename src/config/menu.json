@@ -1,85 +1,60 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Beranda",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Profil",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Profil Sekolah",
+          "url": "/profil-sekolah"
+        },
+
+        {
+          "name": "Data GTK",
+          "url": "/staff"
+        },
+
+        {
+          "name": "Fasilitas",
+          "url": "/fasilitas"
+        }
+      ]
     },
     {
       "name": "Blog",
       "url": "/blog"
     },
     {
-      "name": "Features",
-      "url": "/features"
+      "name": "Galeri",
+      "url": "/Galeri"
     },
     {
-      "name": "How It Works",
-      "url": "/how-it-works"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Career",
-          "url": "/career"
-        },
-
-        {
-          "name": "Integrations",
-          "url": "/integrations"
-        },
-
-        {
-          "name": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "name": "Sign In",
-          "url": "/signin"
-        },
-
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Changelog",
-          "url": "/changelog"
-        },
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
-        }
-      ]
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Kontak",
+      "url": "/kontak"
     }
   ],
 
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Tentang",
+      "url": "/tentang"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Kontak",
+      "url": "/kontak"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Blog",
+      "url": "/blog"
     },
     {
-      "name": "Changelog",
-      "url": "/changelog"
+      "name": "Galeri",
+      "url": "/galeri"
     }
   ]
 }

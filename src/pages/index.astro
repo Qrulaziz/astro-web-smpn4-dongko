@@ -1,4 +1,6 @@
 ---
+import config from "@config/config.json";
+
 import Base from "@layouts/Base.astro";
 import Banner from "@layouts/components/Banner.astro";
 import KeyFeatures from "@layouts/components/KeyFeatures.astro";
@@ -6,18 +8,35 @@ import Testimonial from "@layouts/components/Testimonial.astro";
 import Service from "@layouts/components/Service.astro";
 import Cta from "@layouts/partials/Cta.astro";
 import { getEntryBySlug } from "astro:content";
+import Blogs from "@components/Blogs.astro";
+import { getSinglePage } from "@lib/contentParser.astro";
+import { sortByDate } from "@lib/utils/sortFunctions";
 
 const homepage = await getEntryBySlug("homepage", "index");
 const { banner, key_features, service, testimonial } = homepage.data;
+
+const { blog_folder } = config.settings;
+const posts = await getSinglePage(blog_folder);
+const sortedPosts = sortByDate(posts);
+const recentPost = sortedPosts.filter((item) => !item.data.featured);
+const currentPosts = recentPost.slice(0, config.settings.pagination);
 ---
 
 <Base>
   <!-- banner -->
   <Banner banner={banner} />
-  <!-- key features -->
-  <KeyFeatures key_features={key_features} />
   <!-- service -->
   <Service service={service} />
+  
+  <!-- Recent Posts -->
+  <div class="container">
+    <h2 class="h4 mb-4">Postingan terkini</h2>
+    <Blogs posts={currentPosts} />
+  </div>
+
+  <!-- key features -->
+  <KeyFeatures key_features={key_features} />
+  
   <!-- testimonial -->
   <Testimonial testimonial={testimonial} />
   <!-- call to action -->
