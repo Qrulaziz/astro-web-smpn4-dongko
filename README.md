@@ -1,10 +1,10 @@
 <h1 align=center>Website SMPN 4 Dongko</h1>
 <p align=center>Created with Pinwheel theme built with Astro, TailwindCSS and TypeScript with 17+ pre-designed pages. Link to the theme</p>
 
-![pinwheel](https://demo.themefisher.com/thumbnails/pinwheel.png)
+![pinwheel](https://astro.build/themes/details/pinwheel/)
 
 <!-- installation -->
-## 🛠️ Instalasi
+## 🛠️ Installation
 
 After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
 
