@@ -1,7 +1,7 @@
 <h1 align=center>Website SMPN 4 Dongko</h1>
 <p align=center>Created with Pinwheel theme built with Astro, TailwindCSS and TypeScript with 17+ pre-designed pages. Link to the theme</p>
 
-![pinwheel](https://astro.build/themes/details/pinwheel/)
+(<https://astro.build/themes/details/pinwheel/>)
 
 <!-- installation -->
 ## 🛠️ Installation
