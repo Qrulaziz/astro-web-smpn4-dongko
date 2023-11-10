@@ -1,10 +1,12 @@
 ---
 import config from "@config/config.json";
+import Blockquote from "@shortcodes/Blockquote";
+import { Image } from "@astrojs/image/components";
 
 const {
   call_to_action: {
     title,
-    description,
+    img_src,
     button: { label, link },
   },
 } = config;
@@ -18,13 +20,11 @@ const {
       <div class="lg:col-11">
         <div class="row">
           <div class="lg:col-7">
-            <h2 class="h1 text-white">{title}</h2>
-            <a class="btn btn-white mt-8" href={link}>{label}</a>
+            <Blockquote name="Albert Einstein"><p>{title}</p></Blockquote>
+            <!-- <a class="btn btn-white mt-8" href={link}>{label}</a> -->
           </div>
-          <div class="mt-8 lg:col-5 lg:mt-0">
-            <p class="text-white">
-              {description}
-            </p>
+          <div class="flex mt-8 lg:col-5 lg:mt-0 items-center justify-center">
+            <Image class="object-contain" src={img_src} width={600} height={576} alt="Albert Einstein"/>
           </div>
         </div>
       </div>

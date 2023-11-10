@@ -10,7 +10,7 @@ banner:
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
+  title: "The Highlighting Part Of Our Solutio"
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
@@ -81,23 +81,23 @@ service:
 #testimonial
 testimonial:
   title: Pendapat para Alumni tentang SMPN 4 Dongko
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: Bagaimana pendapat para alumni selama bersekolah di SMPN 4 Dongko? Berikut kisah mereka.
   testimonial_list:
-    - author: David Cameron
+    - author: Abdul Abdul
       avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      organization: SMK 1 Wakanda
+      rating: five
+      content: Selama bersekolah di SMP 4 Dongko saya mendapat banyak ilmu, teman, dan juga pengalaman.
+    - author: Budi Budi
       avatar: "/images/users/user-6.png"
-      organization: meta limited
+      organization: SMK 1 Wakanda
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: Lingkungan sekolah menyenangkan, guru-guru juga ramah-ramah.
+    - author: Citra Amalia
       avatar: "/images/users/user-2.png"
-      organization: meta limited
+      organization: SMA 1 Wakanda
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Selama bersekolah di sini saya berkesempatan mengembangkan minat dan bakat saya dalam bidang kesenian dan olahraga.
     - author: David Cameron
       avatar: "/images/users/user-3.png"
       organization: meta limited
