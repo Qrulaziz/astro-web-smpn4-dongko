@@ -1,17 +1,17 @@
 ---
 title: "Profil"
 page_title: "Profil SMPN 4 Dongko"
-buttons:
-  - label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
-  - label: Learn More
-    link: "#"
-    outline: true
-    enable: true
 
 # counter
 counter:
+  - name: "Luas wilayah"
+    number: 1000
+    messurment: K
+    color: "#FE6019"
+  - name: "Akreditasi"
+    number: B
+    messurment: K
+    color: "#FEC163"
   - name: "Guru dan Tenaga Kependidikan"
     number: 15
     messurment: M
@@ -20,22 +20,14 @@ counter:
     number: 72
     messurment: M
     color: "#5EE2A0"
-  - name: "Customers"
-    number: 50
-    messurment: K
-    color: "#FE6019"
-  - name: "Customers"
-    number: 20
-    messurment: K
-    color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
   images:
-    - "/images/about/gallery-img-1.png"
-    - "/images/about/gallery-img-3.png"
-    - "/images/about/gallery-img-2.png"
+    - "/images/about/gallery-img-1.jpg"
+    - "/images/about/gallery-img-3.jpeg"
+    - "/images/about/gallery-img-2.jpeg"
+    - "/images/about/gallery-img-4.jpeg"
 
 ## our works
 features:
@@ -107,4 +99,4 @@ members:
       field: Operator
       image: "/images/users/bu-yayuk.jpg"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+SMP Negeri 4 Dongko Satap merupakan sekolah menengah pertama yang terletak di Desa Ngerdani, Kecamatan Dongko, Kabupaten Trenggalek. Berdasarkan sejarah terbentuknya yaitu pada tahun 2007, SMP Negeri 4 Dongko lebih dikenal sebagai SD/SMP Negeri Satu Atap (Satap) 1 Dongko. Pada tahun 2021, SD/SMP Negeri Satu Atap (Satap) 1 Dongko masing-masing berubah menjadi SDN 2 Ngerdani dan SMP Negeri 4 Dongko Satu Atap.

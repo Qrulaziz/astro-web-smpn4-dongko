@@ -1,11 +1,11 @@
 {
   "site": {
     "title": "Web SMPN 4 Dongko",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "base_url": "https://smpn-4-dongko.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/logo-smp4.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/404.png",
     "logo_width": "147",
     "logo_height": "31",
     "logo_text": "Sefourdo."
@@ -28,7 +28,7 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "smpn-4-dongko",
     "settings": {}
   },
 

@@ -85,47 +85,38 @@ testimonial:
   testimonial_list:
     - author: Abdul Abdul
       avatar: "/images/users/user-5.png"
-      organization: SMK 1 Wakanda
+      organization: SMK 1 Lorem
       rating: five
       content: Selama bersekolah di SMP 4 Dongko saya mendapat banyak ilmu, teman, dan juga pengalaman.
     - author: Budi Budi
       avatar: "/images/users/user-6.png"
-      organization: SMK 1 Wakanda
+      organization: SMK 1 Lorem
       rating: four
       content: Lingkungan sekolah menyenangkan, guru-guru juga ramah-ramah.
     - author: Citra Amalia
       avatar: "/images/users/user-2.png"
-      organization: SMA 1 Wakanda
+      organization: SMA 1 Lorem
       rating: three
       content: Selama bersekolah di sini saya berkesempatan mengembangkan minat dan bakat saya dalam bidang kesenian dan olahraga.
-    - author: David Cameron
-      avatar: "/images/users/user-3.png"
-      organization: meta limited
+    - author: Denisa
+      avatar: "/images/users/user-2.png"
+      organization: SMA 1 Lorem
+      rating: four
+      content: Selama bersekolah di sini saya berkesempatan mengembangkan minat dan bakat saya dalam bidang kesenian dan olahraga.
+    - author: Emilia
+      avatar: "/images/users/user-2.png"
+      organization: SMA 1 Lorem
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-4.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-1.png"
-      organization: meta limited
+      content: Selama bersekolah di sini saya berkesempatan mengembangkan minat dan bakat saya dalam bidang kesenian dan olahraga.
+    - author: Fatiha
+      avatar: "/images/users/user-2.png"
+      organization: SMA 1 Lorem
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Selama bersekolah di sini saya berkesempatan mengembangkan minat dan bakat saya dalam bidang kesenian dan olahraga.
+    - author: Galih
+      avatar: "/images/users/user-2.png"
+      organization: SMA 1 Lorem
+      rating: three
+      content: Selama bersekolah di sini saya berkesempatan mengembangkan minat dan bakat saya dalam bidang kesenian dan olahraga.
+    
 ---

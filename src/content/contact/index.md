@@ -1,4 +1,4 @@
 ---
-title: Contact
-page_title: Get’n touch with Our </br> Pinwheel team
+title: Kontak
+page_title: Anda dapat menghubungi kami <br> melalui kotak pesan berikut
 ---
