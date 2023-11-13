@@ -5,7 +5,7 @@ banner:
   image: /images/banner-img.jpeg
   button:
     label: Lihat selengkapnya
-    link: "https://www.youtube.com/@smpn4dongko"
+    link: "https://www.instagram.com/smpn4dongko/"
     enable: true
 
 ##key features
@@ -68,7 +68,7 @@ service:
         video_id: "9APa7-RU3sc"
       button:
         label: Lihat selengkapnya
-        link: "#"
+        link: "https://www.youtube.com/@smpn4dongko"
         enable: true
     # - title: Accept payments any country in this whole universe
     #   desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
